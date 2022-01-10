@@ -6,10 +6,10 @@ Automatic tools 🛠 for living in Fudan Campus, powered by developers from FDU 
 
 ## 自动项目
 
-- [复旦体育理论考试 自动做题器](https://github.com/KevinWang15/fdty)
-- [复旦大学自动评教脚本](https://github.com/hohboy/Fudan_pingjiao)
-- [复旦2021 全自动选课脚本，仅供学习交流使用](https://github.com/ZiYang-xie/FduCourseSelector)
-- [自动填写 PAFD](https://github.com/FDUCSLG/pafd-automated)
+- ![](https://img.shields.io/github/stars/KevinWang15/fdty?style=social) [复旦体育理论考试 自动做题器](https://github.com/KevinWang15/fdty)
+- ![](https://img.shields.io/github/stars/hohboy/Fudan_pingjiao?style=social) [复旦大学自动评教脚本](https://github.com/hohboy/Fudan_pingjiao)
+- ![](https://img.shields.io/github/stars/ZiYang-xie/FduCourseSelector?style=social) [复旦2021 全自动选课脚本，仅供学习交流使用](https://github.com/ZiYang-xie/FduCourseSelector)
+- ![](https://img.shields.io/github/stars/FDUCSLG/pafd-automated?style=social) [自动填写 PAFD](https://github.com/FDUCSLG/pafd-automated)
 
 ## 贡献
 
