@@ -2,7 +2,7 @@
 
 # FDUAUTO
 
-Automatic tools 🛠 for living in Fudan Campus, powered by developers from FDU on GitHu.
+复旦大学自动化工具合集🛠，让您的大学生活更便利。
 
 ## 自动项目
 
