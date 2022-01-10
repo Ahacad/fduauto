@@ -13,4 +13,4 @@ Automatic tools 🛠 for living in Fudan Campus, powered by developers from FDU 
 
 ## 贡献
 
-欢迎您提出更多优秀的项目或者任何相关建议，点击上方的 `Issues` 即可发起讨论。
+欢迎您提出更多优秀的项目或者任何相关建议🤗，点击上方的 `Issues` 即可发起讨论。
